@@ -4,4 +4,6 @@ beautifulsoup4
 groq
 python-dotenv
 fastapi
-uvicorn7
+uvicorn[standard]
+httpx
+python-multipart
